@@ -22,7 +22,7 @@ arrival time, last visit, and a note. It alerts when an unknown person stays in 
 
 &#x20;  - face\_recognition\_sface\_2021dec.onnx (Hugging Face: opencv/face\_recognition\_sface)
 
-3\. Run: python recognition\\knowthedoor.py
+3\. Run: python knowthedoor.py
 
 
 
